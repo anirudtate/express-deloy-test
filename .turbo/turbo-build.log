@@ -1,0 +1,5 @@
+
+
+> backend@1.0.0 build /home/anirud/code/course-flow-ai/apps/backend
+> tsc --project tsconfig.json && tsc-alias -p tsconfig.json
+
